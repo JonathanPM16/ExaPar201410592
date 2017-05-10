@@ -33,8 +33,8 @@
       // output data of each row
       while($row1 = $result1->fetch_assoc()) {?>
       <tr>
-      <td><img src="<?php echo $row1['imagen_servicio']?>"></td>
-      <td><?php echo $row1['nombre_servicio']?> </br><?php echo $row1['descripcion_servicio']?> </td>
+      <td width="30%"><img src="<?php echo $row1['imagen_servicio']?>"></td>
+      <td width="70%"><?php echo $row1['nombre_servicio']?> </br><?php echo $row1['descripcion_servicio']?> </td>
       </tr>
      <?php }
   } else {
@@ -64,8 +64,8 @@
       // output data of each row
       while($row2 = $result2->fetch_assoc()) {?>
       <tr>
-      <td><img src="<?php echo $row2['imagen_servicio']?>"></td>
-      <td><?php echo $row2['nombre_servicio']?> </br><?php echo $row2['descripcion_servicio']?> </td>
+      <td width="30%"><img src="<?php echo $row2['imagen_servicio']?>"></td>
+      <td width="70%"><?php echo $row2['nombre_servicio']?> </br><?php echo $row2['descripcion_servicio']?> </td>
       </tr>
      <?php }
   } else {
