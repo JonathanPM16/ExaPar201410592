@@ -14,7 +14,7 @@
    <td>
    <table>
     <tr>
-     <td><h3>For data scientists</h3></td>
+     <td width="100%"><h3>For data scientists</h3></td>
     </tr>
    <?php
   $servername = "us-cdbr-iron-east-03.cleardb.net";
@@ -46,7 +46,7 @@
  </td>
     <td>
     <table>
-     <td><h3>For IT professionals</h3></td>
+     <td width="100%"><h3>For IT professionals</h3></td>
    <?php
   $servername = "us-cdbr-iron-east-03.cleardb.net";
   $username = "b74ba3320e82ec";
