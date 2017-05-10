@@ -11,6 +11,12 @@
   </div>
   <table>
    <tr>
+    <td width="50%"><h3>For data scientists</h3></td>
+    <td width="50%"><h3>For IT professionals</h3></td>
+   </tr>
+  </table>
+  <table>
+   <tr>
    <td>
    <table>
     <tr>
